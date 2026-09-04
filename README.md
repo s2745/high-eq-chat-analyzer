@@ -46,8 +46,8 @@ pip inst---
 
 ### 📬 如果以上方法都无法解决，或使用中有其他问题
 欢迎联系我（请备注“高情商分析器”）：
-- 📧 邮箱：`你的邮箱地址`
-- 💬 QQ：`你的QQ号码`
+- 📧 邮箱：`scsc2023@qq.com`
+- 💬 QQ：`1790593310`
 
 我会尽力回复，由于个人精力有限，如回复不及时请见谅。all openai
 python chat_analyzer.py# high-eq-chat-analyzer
